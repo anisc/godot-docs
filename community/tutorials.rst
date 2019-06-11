@@ -31,6 +31,7 @@ Video tutorials
 - `P1X / Krzysztof Jankowski <https://www.youtube.com/playlist?list=PLvDk7UKhld4xGPovdB4IFtAHYMYjx_-3K>`_
 - `Pigdev <https://www.youtube.com/playlist?list=PLPMN4vCRFdordS3E-3zi0Hdh7pAsbWQ6a>`_
 - `Steincodes <https://www.youtube.com/c/steincodes/playlists>`__
+- `Angega Studios <https://www.youtube.com/channel/UChv-gaPlKNROf6iMDhxIpUA/playlists>`__
 
 Text tutorials
 --------------
